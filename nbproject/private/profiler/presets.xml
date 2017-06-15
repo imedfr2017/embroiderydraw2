@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment></comment>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-0">mlnr.gui.cpnt.DrawingPad,&lt;init&gt;,(Lmlnr/gui/cpnt/InterfaceScale;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-15">mlnr.gui.cpnt.DrawingPad,zoomTo,(FLmlnr/type/FPointType;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-14">mlnr.gui.cpnt.DrawingPad,zoomTo,(F)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-13">mlnr.gui.cpnt.DrawingPad,getYOffsetOfDesign,()F</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-12">mlnr.gui.cpnt.DrawingPad,getXOffsetOfDesign,()F</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-11">mlnr.gui.cpnt.DrawingPad,getYOffsetIntoDesign,()F</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-10">mlnr.gui.cpnt.DrawingPad,getXOffsetIntoDesign,()F</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-22">mlnr.gui.cpnt.DrawingPad,processMouseMotionEvent,(Ljava/awt/event/MouseEvent;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-21">mlnr.gui.cpnt.DrawingPad,processMouseEvent,(Ljava/awt/event/MouseEvent;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-20">mlnr.gui.cpnt.DrawingPad,zoomStroke,(F)V</entry>
+<entry key="presets.cpufragment.profiler.settings.fragment.selection"></entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-9">mlnr.gui.cpnt.DrawingPad,transformGraphics,(Ljava/awt/Graphics2D;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-8">mlnr.gui.cpnt.DrawingPad,drawGrid,(Ljava/awt/Graphics2D;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-7">mlnr.gui.cpnt.DrawingPad,paintTool,()V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-6">mlnr.gui.cpnt.DrawingPad,paint,(Ljava/awt/Graphics;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-5">mlnr.gui.cpnt.DrawingPad,getDesignStroke,()Ljava/awt/Stroke;</entry>
+<entry key="presets.cpupart.profiler.settings.instrumentation.root.methods.size">23</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-19">mlnr.gui.cpnt.DrawingPad,calculateCenter,()Lmlnr/type/FPointType;</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-4">mlnr.gui.cpnt.DrawingPad,getTransformedGraphics,()Ljava/awt/Graphics2D;</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-18">mlnr.gui.cpnt.DrawingPad,updateOffset,(FLmlnr/type/FPointType;)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-3">mlnr.gui.cpnt.DrawingPad,getMousePositionMeasurement,()Lmlnr/type/FPointType;</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-17">mlnr.gui.cpnt.DrawingPad,setYOffsetIntoDesign,(F)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-2">mlnr.gui.cpnt.DrawingPad,getDesign,()Lmlnr/draw/Design;</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-16">mlnr.gui.cpnt.DrawingPad,setXOffsetIntoDesign,(F)V</entry>
+<entry key="presets.cpupart.profiler.settings.istrumentation.root.methods-1">mlnr.gui.cpnt.DrawingPad,createDesign,(Lmlnr/gui/InterfaceFrameOperation;FF)V</entry>
+</properties>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rxml v='1.1'>
+    <canvas x='2000' y='2000' />
+    <layer name="Master" red='0' green='0' blue='255'>
+      <masterLayer />
+      <graph>
+        <lineList>
+          <bezier id='1' vertexId0='3' vertexId1='0' xPt0='800' yPt0='896' xPt1='888' yPt1='800'/>
+          <bezier id='3' vertexId0='0' vertexId1='2' xPt0='1116' yPt0='800' xPt1='1200' yPt1='896'/>
+          <bezier id='2' vertexId0='2' vertexId1='1' xPt0='1200' yPt0='1112' xPt1='1116' yPt1='1200'/>
+          <bezier id='0' vertexId0='1' vertexId1='3' xPt0='888' yPt0='1200' xPt1='800' yPt1='1104'/>
+        </lineList>
+        <vertexList>
+          <vertex id='1' x='1000' y='1200' />
+          <vertex id='3' x='800' y='1000' />
+          <vertex id='2' x='1200' y='1000' />
+          <vertex id='0' x='1000' y='800' />
+        </vertexList>
+      </graph>
+    </layer>
+    <image>
+    </image>
+  </rxml>

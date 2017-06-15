@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rxml v='2.0'>
+  <stage value='2' />
+  <metaDrawingInfo>
+   <author name="" website="" email="" />
+   <description value="" />
+   <set value="" />
+   <category value="" />
+  </metaDrawingInfo>
+  <design width='100.0' height='100.0'>
+   <layerPool currId='1'>
+    <layer id='1' name='Master' color='-16776961' master='true' zDepth='100'>
+     <graphPool>
+      <graph id='1'>
+       <linePool>
+        <vertexPool>
+         <vertex id='2' x='60.0' y='40.0' />
+         <vertex id='4' x='60.0' y='60.0' />
+         <vertex id='1' x='40.0' y='40.0' />
+         <vertex id='3' x='40.0' y='60.0' />
+        </vertexPool>
+        <line id='2' v1='3' v2='1' />
+        <line id='4' v1='4' v2='3' />
+        <line id='1' v1='1' v2='2' />
+        <line id='3' v1='2' v2='4' />
+       </linePool>
+      </graph>
+     </graphPool>
+    </layer>
+   </layerPool>
+   <generalPathPool>
+   </generalPathPool>
+  </design>
+  <imagePool>
+  </imagePool>
+ </rxml>
